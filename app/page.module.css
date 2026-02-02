@@ -266,8 +266,8 @@
   cursor: pointer;
 }
 .fourthbackground {
-  background-color: #656564ff;
-  min-height: 325dvh;
+  background-color: rgb(101, 101, 100);
+  min-height: 150dvh;
   padding: 20 10 20 15;
 }
 
