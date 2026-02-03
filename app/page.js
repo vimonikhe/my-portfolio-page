@@ -192,7 +192,7 @@ export default function Home() {
       </div>
       <div className={styles.thirdbackground}>
         <div className={styles.thirdsection}>
-          <Link href="https://drive.google.com/file/d/1_HNieoaG9E6anWf4Rm9FdqO-Z9Wnj6pN/view?usp=sharing">
+          <Link href="https://collection.cloudinary.com/dmhvi3mwp/1b0c91f9ed4b4e849a947b830da598be">
             <div className={styles.downloadresumewrap}>
               <button id="myresume" className={styles.downloadresume}>
                 Click to Download Resume
