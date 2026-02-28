@@ -21,7 +21,7 @@ export default function Home() {
         </div>
         <div className={styles.menu}>
           <a href="/" className={styles.home}>
-            Home bb
+            Home
           </a>
           <a href="#myresume" className={styles.myresume}>
             My Resume
