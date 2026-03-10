@@ -120,7 +120,7 @@ export default function Home() {
                   <div className={styles.swiperone}>
                     <div>
                       <div className={styles.swiperonea}>
-                        It's fast and i really love my design
+                        {`"It's fast and i really love my design"`}
                       </div>
                       <div className={styles.swiperoneb}>CEO Dietpage</div>
                     </div>
